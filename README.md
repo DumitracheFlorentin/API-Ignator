@@ -1,6 +1,6 @@
 # Ignator Application - API Project
 
-![screenshot](https://github.com/DumitracheFlorentinC/Ignator-API-Project-/blob/main/img/screenshot.png)
+![screenshot](https://github.com/DumitracheFlorentin/Ignator-API-Project-/blob/main/img/screenshot.png)
 
 ## Description
 
