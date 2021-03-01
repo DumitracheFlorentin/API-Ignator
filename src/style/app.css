@@ -1,0 +1,40 @@
+.take {
+  min-height: 80vh;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  grid-row-gap: 2rem;
+  grid-column-gap: 2rem;
+}
+
+.take2 {
+  cursor: pointer;
+}
+
+img {
+  width: 100%;
+  min-height: 470px;
+  height: 50vh;
+  object-fit: cover;
+}
+
+.error {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+#modal-class {
+  min-width: 40vw;
+  margin-top: 5rem;
+}
+
+.buttonD {
+  min-height: 94px;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
