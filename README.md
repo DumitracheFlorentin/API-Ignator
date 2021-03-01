@@ -1,6 +1,6 @@
 # Ignator Application - API Project
 
-Simple API application using React JS
+![screenshot](https://github.com/DumitracheFlorentinC/Ignator-API-Project-/blob/main/img/screenshot.png)
 
 ## Usage
 
