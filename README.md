@@ -2,6 +2,10 @@
 
 ![screenshot](https://github.com/DumitracheFlorentinC/Ignator-API-Project-/blob/main/img/screenshot.png)
 
+## Description
+
+Simple REACT application made with purpose to learn how to work with an API and react-bootstrap
+
 ## Usage
 
 ### Env Variables
@@ -16,6 +20,11 @@ REACT_APP_API = your API address
 
 ```
 npm install
+```
+
+### Run The Application
+
+```
 npm start
 ```
 
