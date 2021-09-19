@@ -4,7 +4,7 @@
 
 ## Description
 
-Simple REACT application made with purpose to learn how to work with an API and react-bootstrap
+Ignator Project is a REACT application made with purpose to learn how to work with an API.
 
 ## Usage
 
